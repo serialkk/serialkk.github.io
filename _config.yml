@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: Tom Lee's Blog
 locale: en_US
-description: Describe your website here.
+description: Tom Lee's small place on the internet.
 logo: site-logo.png
 search: true
 url: http://localhost:4000
@@ -36,10 +36,10 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Tom Lee
   avatar: bio-photo.jpg
-  email: you@email.com
-  disqus-shortname:
+  email: serialkk@naver.com
+  disqus-shortname: Tom_J_Lee
   twitter: #username
   facebook: #username
   github: #username
